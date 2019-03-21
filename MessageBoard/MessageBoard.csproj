@@ -118,7 +118,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="Properties\PublishProfiles\MessageBoardWebApplication - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\MemoWeb - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
