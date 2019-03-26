@@ -36,7 +36,7 @@
             <tr>
                 <td class="auto-style1"></td>
                 <td colspan="3" class="auto-style2">
-                    <asp:GridView ID="gvMessage" runat="server" Width="473px"
+                    <asp:GridView ID="gvMessage" runat="server" Width="896px"
                         BackColor="White" BorderColor="#E7E7FF" BorderStyle="None"
                         BorderWidth="1px" CellPadding="3" GridLines="Horizontal"
                         DataKeyNames="ID" OnRowDeleting="gvMessage_RowDeleting">
